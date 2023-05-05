@@ -10,7 +10,7 @@ export default function Nav() {
         height="24"
         className="globe"
       />
-      <h2>My travel journal</h2>
+      <h2>Jurnal de calatorie</h2>
     </nav>
   );
 }
